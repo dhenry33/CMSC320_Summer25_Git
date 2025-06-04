@@ -10,3 +10,7 @@ Answer: It can be applied to almost any field. For example, risk analysis in fin
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging just combines the histories of the two branches by making a new merge commit. This preserves the entire history of both branches. However rebasing moves the branchs commits on top of the other branch. Rebasing creates a linear history by moving the branch onto the top of main branch.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Im most interested to learn some real world techniques used in data science. I've only ever learned the very basics so im excited to gain an understanding in more complex processes. Particularly in this class, Im very excited for the semester long project. Ive never got to do a group CS project and im looking forward to learning about collaborating with other programmers. I hope to find an interesting and fun dataset to explore for this project.
