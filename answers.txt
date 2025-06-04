@@ -6,3 +6,7 @@ Answer: Git helps managing changes and lets you see the history of the changes. 
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: It can be applied to almost any field. For example, risk analysis in finance.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging just combines the histories of the two branches by making a new merge commit. This preserves the entire history of both branches. However rebasing moves the branchs commits on top of the other branch. Rebasing creates a linear history by moving the branch onto the top of main branch.
